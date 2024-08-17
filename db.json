@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "name": "Scarlet Witch",
+      "username": "Scarlet ",
+      "email": "scarlet@gmail.com",
+      "phone": "41-859-220-743",
+      "id": 9
+    },
+    {
+      "name": "Bruce Banner",
+      "username": "burce_12",
+      "email": "Bruce@gmail.com",
+      "phone": "75-850-960-026",
+      "id": 10
+    },
+    {
+      "name": "John Cena",
+      "username": "john_cena",
+      "email": "johnCena@gmail.com",
+      "phone": "92-0958-5123-51",
+      "id": 11
+    },
+    {
+      "name": "Mirza Suban Baig",
+      "username": "suban._.baig",
+      "email": "suban@gmail.co",
+      "phone": "275-584-5213",
+      "id": 12
+    },
+    {
+      "name": "muhammad ismail",
+      "username": " ismail123",
+      "email": "mismail@gmail.com",
+      "phone": "01265468",
+      "id": 13
+    },
+    {
+      "name": "Under Taker",
+      "username": "under-taker",
+      "email": "takerunder@yahoo.co",
+      "phone": "575-854-9654",
+      "id": 14
+    },
+    {
+      "name": "hamid",
+      "username": "h-amid",
+      "email": "hamid@gmail.com",
+      "phone": "7654321",
+      "id": 15
+    },
+    {
+      "name": "hamid",
+      "username": "h-amid",
+      "email": "hamid@gmail.com",
+      "phone": "7654321",
+      "id": 16
+    },
+    {
+      "name": "rafiq",
+      "username": "r-afiq",
+      "email": "rafiq@gmail.com",
+      "phone": "123-456-789",
+      "id": 18
+    }
+  ]
+}
